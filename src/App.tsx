@@ -13,7 +13,6 @@ import {
     SolletExtensionWalletAdapter,
     SolletWalletAdapter,
     TorusWalletAdapter,
-
 } from '@solana/wallet-adapter-wallets';
 import fs from "fs";
 
